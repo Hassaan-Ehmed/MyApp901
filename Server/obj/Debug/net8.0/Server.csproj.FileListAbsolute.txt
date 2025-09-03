@@ -27,3 +27,4 @@ H:\Hassan Ahmed Khan\Personal\MyCode\Development\Dotnet Backend\MyApp901\SourceC
 H:\Hassan Ahmed Khan\Personal\MyCode\Development\Dotnet Backend\MyApp901\SourceCode\Server\obj\Debug\net8.0\Server.pdb
 H:\Hassan Ahmed Khan\Personal\MyCode\Development\Dotnet Backend\MyApp901\SourceCode\Server\obj\Debug\net8.0\Server.genruntimeconfig.cache
 H:\Hassan Ahmed Khan\Personal\MyCode\Development\Dotnet Backend\MyApp901\SourceCode\Server\obj\Debug\net8.0\ref\Server.dll
+H:\Hassan Ahmed Khan\Personal\MyCode\Development\Dotnet Backend\MyApp901\SourceCode\Server\obj\Debug\net8.0\Server.sourcelink.json
